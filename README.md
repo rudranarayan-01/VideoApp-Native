@@ -1,5 +1,5 @@
 
-npm install "/n"
+npm install 
 
 
 run : npx expo start --clear
