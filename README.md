@@ -1,5 +1,7 @@
 # An android app created using React Native
 
+-  Recomendation features available
+
 npm install 
 
 
