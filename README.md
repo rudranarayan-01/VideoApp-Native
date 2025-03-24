@@ -1,5 +1,6 @@
 # An android app created using React Native
 
+ EXPO
 -  Recomendation features available
 
 npm install 
